@@ -1,14 +1,14 @@
-# lib-template
+# example
 
-Simple description here
+Description
 
 ```
-npm i lib-template
+npm i example
 ```
 
 ## Usage
 ```javascript
-const lib = require('lib-template')
+const example = require('example')
 ```
 
 ## License
