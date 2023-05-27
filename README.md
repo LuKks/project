@@ -7,7 +7,7 @@ npm i example
 ```
 
 ## Usage
-```javascript
+```js
 const example = require('example')
 ```
 
