@@ -1,5 +1,5 @@
 const test = require('brittle')
 
-test('basic', function () {
+test('basic', async function (t) {
 
 })
