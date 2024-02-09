@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuKks/example.git"
+    "url": "https://github.com/lukks/example.git"
   },
   "author": "Lucas Barrena (LuKks)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LuKks/example/issues"
+    "url": "https://github.com/lukks/example/issues"
   },
-  "homepage": "https://github.com/LuKks/example#readme",
+  "homepage": "https://github.com/lukks/example#readme",
   "devDependencies": {
     "brittle": "^3.3.2",
     "standard": "^17.1.0"
