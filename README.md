@@ -1,15 +1,13 @@
-# example
-
-Description
+# {{name}}
 
 ```
-npm i example
+npm i {{name}}
 ```
 
 ## Usage
 
 ```js
-const example = require('example')
+const {{name}} = require('{{name}}')
 ```
 
 ## License
