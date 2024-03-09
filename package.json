@@ -1,5 +1,5 @@
 {
-  "name": "example",
+  "name": "{{name}}",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukks/example.git"
+    "url": "git+https://github.com/lukks/{{name}}.git"
   },
   "author": "Lucas Barrena (LuKks)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukks/example/issues"
+    "url": "https://github.com/lukks/{{name}}/issues"
   },
-  "homepage": "https://github.com/lukks/example#readme",
+  "homepage": "https://github.com/lukks/{{name}}#readme",
   "devDependencies": {
     "brittle": "^3.3.2",
     "standard": "^17.1.0"
